@@ -1,4 +1,4 @@
-DirectCandidatesGenerationAlgorithm
+Direct Candidates Generation Algorithm
 ===================================
 
-(DCG)
+DCG and DCG+ algorithms.
